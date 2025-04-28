@@ -18,6 +18,11 @@ This project analyzes event participation data across departments, semesters, an
 
 ---
 
+##Link 
+Dashboard : https://airtable.com/invite/l?inviteId=invQI1QzPaPOf9x82&inviteToken=27128c80b7beec6bb9b944b9be3afd27101a7e818ade379fcf85aece5a7e07fa&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+
+---
+
 ## 🛠️ Tools Used
 - **Airtable:** Managed event and attendee data.
 - **Airtable:** Built interactive dashboards for participation and success analysis.
